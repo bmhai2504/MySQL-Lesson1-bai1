@@ -1,0 +1,1 @@
+DROP DATABASE `lesson1-bai1`;
